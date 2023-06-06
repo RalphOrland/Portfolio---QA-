@@ -1,5 +1,5 @@
 Introduction:
-Hello, I'm [Your Name], a passionate Quality Assurance (QA) Tester ready to make my mark in the world of software testing. With a keen eye for detail and a natural inclination for problem-solving, I am dedicated to ensuring the delivery of high-quality software that exceeds user expectations. As a newcomer to the field, I am excited to embark on this journey, armed with a relentless curiosity and a commitment to continuous learning.
+Hello, I'm Ralph Orland Leynes, a passionate Quality Assurance (QA) Tester ready to make my mark in the world of software testing. With a keen eye for detail and a natural inclination for problem-solving, I am dedicated to ensuring the delivery of high-quality software that exceeds user expectations. As a newcomer to the field, I am excited to embark on this journey, armed with a relentless curiosity and a commitment to continuous learning.
 
 About Me:
 My fascination with technology and its impact on our lives ignited my interest in QA testing. I believe that the role of a QA tester extends beyond finding bugs; it's about becoming the advocate for the end-users, ensuring their experience is seamless and enjoyable. With a background in [mention any relevant background, education, or industry experience], I bring a diverse set of skills that enable me to approach testing from various perspectives.
